@@ -1,0 +1,15 @@
+C:\AMS\Atividade02\bin\Debug\net6.0\Atividade02.exe
+C:\AMS\Atividade02\bin\Debug\net6.0\Atividade02.deps.json
+C:\AMS\Atividade02\bin\Debug\net6.0\Atividade02.runtimeconfig.json
+C:\AMS\Atividade02\bin\Debug\net6.0\Atividade02.dll
+C:\AMS\Atividade02\bin\Debug\net6.0\Atividade02.pdb
+C:\AMS\Atividade02\obj\Debug\net6.0\Atividade02.csproj.AssemblyReference.cache
+C:\AMS\Atividade02\obj\Debug\net6.0\Atividade02.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMS\Atividade02\obj\Debug\net6.0\Atividade02.AssemblyInfoInputs.cache
+C:\AMS\Atividade02\obj\Debug\net6.0\Atividade02.AssemblyInfo.cs
+C:\AMS\Atividade02\obj\Debug\net6.0\Atividade02.csproj.CoreCompileInputs.cache
+C:\AMS\Atividade02\obj\Debug\net6.0\Atividade02.dll
+C:\AMS\Atividade02\obj\Debug\net6.0\refint\Atividade02.dll
+C:\AMS\Atividade02\obj\Debug\net6.0\Atividade02.pdb
+C:\AMS\Atividade02\obj\Debug\net6.0\Atividade02.genruntimeconfig.cache
+C:\AMS\Atividade02\obj\Debug\net6.0\ref\Atividade02.dll
